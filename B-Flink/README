@@ -1,0 +1,4 @@
+For executing tasks:
+
+	flink run -c sp src/B.jar --input graph --iterations 10
+
